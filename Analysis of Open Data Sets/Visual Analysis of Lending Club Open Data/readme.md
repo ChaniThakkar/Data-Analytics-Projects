@@ -1,0 +1,1 @@
+Performed Business Intelligence, exploratory Data Analysis & provided meaningful visual representation of data using Tableau, Python & bokeh visualization library while delivering high-performance interactivity over large datasets like “311 open data from NYC's OpenData initiative” and “Lending club’s open data”.
